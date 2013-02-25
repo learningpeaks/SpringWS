@@ -1,0 +1,4 @@
+SpringWS
+========
+
+SpringWebservices-sample
